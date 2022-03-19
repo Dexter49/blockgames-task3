@@ -1,1 +1,5 @@
 # blockgames-task3
+
+ERC721 Txn Hash - 0xd9145CCE52D386f254917e481eB44e9943F39138
+
+ERC20 Txn Hash - 
